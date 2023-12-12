@@ -1,0 +1,1 @@
+FROM ghcr.io/fwilhe/builder@sha256:50e8008a6be0877879876fa86340bd1224e559ee8a2bcbecd48e21188c34c54d
