@@ -1,1 +1,1 @@
-FROM ghcr.io/fwilhe/builder@sha256:50e8008a6be0877879876fa86340bd1224e559ee8a2bcbecd48e21188c34c54d
+FROM ghcr.io/fwilhe/builder@sha256:930a91540dd4c4eb08f221ecc59d2796b8bed9a6e35ac42ec69db222b3e70506
